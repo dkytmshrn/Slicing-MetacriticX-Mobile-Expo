@@ -1,0 +1,182 @@
+[
+    {
+      "title": "Iron Man",
+      "slug": "iron-man",
+      "synopsis": "Billionaire genius Tony Stark becomes the armored superhero Iron Man.",
+      "trailerUrl": "https://www.youtube.com/embed/8ugaeA-nMTc",
+      "imgUrl": "https://filmartgallery.com/cdn/shop/products/Iron-Man-Vintage-Movie-Poster-Original-1-Sheet-27x41_e2bcb66a-ccd4-40b9-8726-d58b195d2085.jpg?v=1648530340",
+      "rating": 79,
+      "GenreId": 1
+    },
+    {
+      "title": "The Incredible Hulk",
+      "slug": "the-incredible-hulk",
+      "synopsis": "Scientist Bruce Banner transforms into the Hulk when angered and must find a cure.",
+      "trailerUrl": "https://www.youtube.com/embed/xbqNb2PFKKA",
+      "imgUrl": "https://artofthemovies.co.uk/cdn/shop/products/TheIncerdibleHulkOneSheetMoviePoster-645660_64db8f37-2c43-444d-ab1e-e9c102883a9f.jpg?v=1662129624",
+      "rating": 67,
+      "GenreId": 1
+    },
+    {
+      "title": "Iron Man 2",
+      "slug": "iron-man-2",
+      "synopsis": "Tony Stark faces new challenges as Iron Man while confronting new enemies.",
+      "trailerUrl": "https://www.youtube.com/embed/wKtcmiifycU",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BZGVkNDAyM2EtYzYxYy00ZWUxLTgwMjgtY2VmODE5OTk3N2M5XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg",
+      "rating": 70,
+      "GenreId": 1
+    },
+    {
+      "title": "Thor",
+      "slug": "thor",
+      "synopsis": "The powerful Thor is cast out of Asgard and learns humility on Earth.",
+      "trailerUrl": "https://www.youtube.com/embed/JOddp-nlNvQ",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg",
+      "rating": 70,
+      "GenreId": 1
+    },
+    {
+      "title": "Captain America: The First Avenger",
+      "slug": "captain-america-first-avenger",
+      "synopsis": "Steve Rogers becomes Captain America and battles the Red Skull.",
+      "trailerUrl": "https://www.youtube.com/embed/JerVrbLldXw",
+      "imgUrl": "https://i0.wp.com/www.heyuguys.com/images/2011/07/Captain-America-International-Poster.jpg",
+      "rating": 69,
+      "GenreId": 1
+    },
+    {
+      "title": "The Avengers",
+      "slug": "the-avengers",
+      "synopsis": "Earth's mightiest heroes join forces to stop Loki and save the world.",
+      "trailerUrl": "https://www.youtube.com/embed/eOrNdBpGMv8",
+      "imgUrl": "https://m.media-amazon.com/images/I/815oKqKUo4L.jpg",
+      "rating": 80,
+      "GenreId": 1
+    },
+    {
+      "title": "Iron Man 3",
+      "slug": "iron-man-3",
+      "synopsis": "Tony Stark faces the terrorist Mandarin in a battle of wits and technology.",
+      "trailerUrl": "https://www.youtube.com/embed/Ke1Y3P9D0Bc",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_.jpg",
+      "rating": 72,
+      "GenreId": 1
+    },
+    {
+      "title": "Thor: The Dark World",
+      "slug": "thor-dark-world",
+      "synopsis": "Thor must team up with Loki to save the Nine Realms from a dark threat.",
+      "trailerUrl": "https://www.youtube.com/embed/npvJ9FTgZbM",
+      "imgUrl": "https://media.comicbook.com/wp-content/uploads/2013/09/Thor_Un_Mundo_Oscuro_Poster_Latino_ex_JPosters.jpg",
+      "rating": 69,
+      "GenreId": 1
+    },
+    {
+      "title": "Captain America: The Winter Soldier",
+      "slug": "captain-america-winter-soldier",
+      "synopsis": "Steve Rogers and Black Widow uncover a conspiracy within S.H.I.E.L.D.",
+      "trailerUrl": "https://www.youtube.com/embed/tbayiPxkUMM",
+      "imgUrl": "https://m.media-amazon.com/images/I/71FXNj0ER5L._AC_UF1000,1000_QL80_.jpg",
+      "rating": 77,
+      "GenreId": 1
+    },
+    {
+      "title": "Guardians of the Galaxy",
+      "slug": "guardians-galaxy",
+      "synopsis": "A group of misfits joins forces to stop the villain Ronan the Accuser.",
+      "trailerUrl": "https://www.youtube.com/embed/d96cjJhvlMA",
+      "imgUrl": "https://files.ekmcdn.com/allwallpapers/images/marvel-guardians-of-the-galaxy-61x91-5cm-movie-poster-37657-1-p.jpg",
+      "rating": 80,
+      "GenreId": 1
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "slug": "avengers-age-ultron",
+      "synopsis": "The Avengers battle the AI villain Ultron, who seeks to destroy humanity.",
+      "trailerUrl": "https://www.youtube.com/embed/tmeOjFno6Do",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg",
+      "rating": 73,
+      "GenreId": 1
+    },
+    {
+      "title": "Ant-Man",
+      "slug": "ant-man",
+      "synopsis": "Scott Lang becomes the shrinking superhero Ant-Man and takes on a heist.",
+      "trailerUrl": "https://www.youtube.com/embed/pWdKf3MneyI",
+      "imgUrl": "https://www.iefimerida.gr/sites/default/files/ant-man_70x100.jpg",
+      "rating": 73,
+      "GenreId": 1
+    },
+    {
+      "title": "Captain America: Civil War",
+      "slug": "captain-america-civil-war",
+      "synopsis": "The Avengers split into two factions over the Sokovia Accords.",
+      "trailerUrl": "https://www.youtube.com/embed/43NWzay3W4s",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg",
+      "rating": 78,
+      "GenreId": 1
+    },
+    {
+      "title": "Doctor Strange",
+      "slug": "doctor-strange",
+      "synopsis": "Neurosurgeon Stephen Strange becomes a sorcerer and defends the world from mystical threats.",
+      "trailerUrl": "https://www.youtube.com/embed/h7gvFravm4A",
+      "imgUrl": "https://image.tmdb.org/t/p/original/8HtfyYughBsxs7S5Las6Yaj4uam.jpg",
+      "rating": 75,
+      "GenreId": 1
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 2",
+      "slug": "guardians-galaxy-vol-2",
+      "synopsis": "The Guardians embark on a new adventure and uncover Peter Quill's parentage.",
+      "trailerUrl": "https://www.youtube.com/embed/dW1BIid8Osg",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_UY1200_CR89,0,630,1200_AL_.jpg",
+      "rating": 76,
+      "GenreId": 1
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "slug": "spider-man-homecoming",
+      "synopsis": "Peter Parker balances life as a high school student and as the web-swinging hero Spider-Man.",
+      "trailerUrl": "https://www.youtube.com/embed/rk-dF1lIbIg",
+      "imgUrl": "https://i.pinimg.com/originals/c0/56/7d/c0567d063eac24c50109c2ee34943ec5.jpg",
+      "rating": 74,
+      "GenreId": 1
+    },
+    {
+      "title": "Thor: Ragnarok",
+      "slug": "thor-ragnarok",
+      "synopsis": "Thor is imprisoned on the planet Sakaar and must escape to prevent Ragnarok.",
+      "trailerUrl": "https://www.youtube.com/embed/v7MGUNV8MxU",
+      "imgUrl": "https://m.media-amazon.com/images/I/A1HBBNzBdxL.jpg",
+      "rating": 79,
+      "GenreId": 1
+    },
+    {
+      "title": "Black Panther",
+      "slug": "black-panther",
+      "synopsis": "T'Challa returns to Wakanda as king and faces a challenge to his throne.",
+      "trailerUrl": "https://www.youtube.com/embed/xjDjIWPwcPU",
+      "imgUrl": "https://m.media-amazon.com/images/I/A1PaCX4oXjL.jpg",
+      "rating": 73,
+      "GenreId": 1
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "slug": "avengers-infinity-war",
+      "synopsis": "The Avengers and their allies must stop the powerful Thanos from acquiring all the Infinity Stones.",
+      "trailerUrl": "https://www.youtube.com/embed/QwievZ1Tx-8",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+      "rating": 85,
+      "GenreId": 1
+    },
+    {
+      "title": "Ant-Man and The Wasp",
+      "slug": "ant-man-wasp",
+      "synopsis": "Scott Lang teams up with Hope van Dyne as the new Wasp to rescue Janet van Dyne from the quantum realm.",
+      "trailerUrl": "https://www.youtube.com/embed/ZlNFpri-Y40",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "rating": 71,
+      "GenreId": 1
+    }
+  ]

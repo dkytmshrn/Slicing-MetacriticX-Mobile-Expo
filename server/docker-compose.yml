@@ -1,0 +1,26 @@
+services:
+  orchestrator:
+    image: orchestrator
+    build: ./orchestrator
+    ports:
+      - "80:4000"
+    environment:
+      REDIS_PASSWORD: ${REDIS_PASSWORD}
+      NODE_ENV: ${NODE_ENV}
+  app:
+    image: app
+    build: ./services/app
+    ports:
+      - "4002:4002"
+    environment:
+      JWT_SECRET: ${JWT_SECRET}
+      DATABASE_URL: ${DATABASE_URL}
+      NODE_ENV: ${NODE_ENV}
+  users:
+    image: users
+    build: ./services/users
+    ports:
+      - "4001:4001"
+    environment:
+      MONGO_URI: ${MONGO_URI}
+      NODE_ENV: ${NODE_ENV}

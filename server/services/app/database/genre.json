@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Action"
+    },
+    {
+        "name":"Drama"
+    },
+    {
+        "name":"Animation"
+    },
+    {
+        "name":"Documentary"
+    },
+    {
+        "name":"Fantasy"
+    },
+    {
+        "name":"Romance"
+    },
+    {
+        "name":"Thriller"
+    }
+]
